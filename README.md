@@ -42,7 +42,7 @@ Los estudios se harán de forma que cada repositorio vaya sumando el conocimient
 
 | Antelación | Lenguaje | URL |
 | :--: | :--: | :--: |
-| 01 | HTML5 | [HTML5](https://github.com/Ze-nit-su/Retos-HTML5) |
+| 01 | HTML5 | [HTML5](https://github.com/Ze-ni-tsu/Retos-HTML5) |
 | 02 | HTML5 + CSS3 | [HTML5 + CSS3] |
 | 03 | HTML5 + CSS3 + JavaScript | [HTML5 + CSS3 + JavaScript] |
 | 04 | HTML5 + CSS3 + JavaScript + TypeScript | [HTML5 + CSS3 + JavaScript + TypeScript] |
