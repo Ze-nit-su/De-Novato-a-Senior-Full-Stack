@@ -24,7 +24,7 @@ Los lenguajes principales a manejar son:
 
 ## ¿Qué se Busca con Este Portafolio?
 
-La finalidad de este Portafolio es dejar evidencia de los avances obtenidos a lo largo del esfuerzo y educación tanto tradicional como autodidacta en cada uno de los lenguajes mencionado con el fin de no solo entender a nivel teórico como funciona un lenguaje, sino poder construir con el soluciones que puedan ayudar desde personas naturales, estudiantes que busquen mejorar sus conocimientos más allá de las paredes educativas tradicionales, pequeños negocios, Startups e incluso empresas grandes o multinacionales.
+La finalidad de este Portafolio es dejar evidencia de los avances obtenidos a lo largo del esfuerzo y educación tanto tradicional como autodidacta en cada uno de los lenguajes mencionado con el fin de no solo entender a nivel teórico como funciona un lenguaje, sino poder construir con el soluciones que puedan ayudar desde personas naturales, estudiantes que busquen mejorar sus conocimientos más allá de las paredes educativas tradicionales, pequeños negocios, Startups e incluso empresas grandes o multinacionales, enfocado hacia la Robótica.
 
 Pero más allá de los grandes logros que pueda llegar a alcanzar el código depositado en este lugar, es la misma introspección continua la que permite mejorar y avanzar en el crecimiento personal, logrando que los mismos inventos o creaciónes que se haga a través de un computador, puedan ser aquellos que en un futuro, ayuden a la humanidad, independendientemente de su "dolencia".
 
@@ -61,7 +61,7 @@ Lo único que se solicita es que se siga las **reglas de la [licencia MIT](/LICE
 | | |
 | :---: | :---: |
 | **Autor** | Hikari, Ren |
-| **Día Creación** | 28 |
+| **Día Creación** | 30 |
 | **Mes Creación** | 06 |
 | **Año Creación** | 2026 |
 | **Día Finalización** | xx |
