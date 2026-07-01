@@ -67,19 +67,19 @@ No se saltará al siguiente nivel hasta que los dos proyectos del nivel actual e
 
 ## ¿Qué se Aprenderá en Cada Nivel?
 
-* **N5**
+* [**N5**](/N5/)
   * Estructura limpia y diseño visual adaptativo enfocado en paneles de control y manuales técnicos.
 
-* **N4**
+* [**N4**](/N4/)
   * Interactividad, manejo del DOM y simulación de flujos de datos.
 
-* **N3**
+* [**N3**](/N3/)
   * Componentes reutilizables para flotas de robots y tipado seguro de variables físicas.
 
-* **N2**
+* [**N2**](/N2/)
   * Creación de bases de datos para misiones y endpoints para recibir coordenadas o estados de sensores.
 
-* **N1**
+* [**N1**](/N1/)
   * Centralización y despliegue de un centro de comando robótico completo.
 
 ## ¿Quién Puede Hacer Uso del Código Impreso en Este Portafolio?
