@@ -1,58 +1,90 @@
-# De Novato a Full-Stack
+# 😵‍💫 De Novato a Full-Stack 👨🏻‍💻
 
-## ¿En que Consiste Este Portafolio?
+## ¿Por Qué Este Portafolio?
 
-Se busca construir, mostrar y mejorar desde las bases hasta lo avanzado en cada uno de los lenguajes propuestos dentro de este portafolio, de manera individual y conjunta, rompiendo la barrera del conocimiento únicamente teórico y buscando avanzar y perfeccionar el uso adecuado y limpio del códgio para el desarrollo de programas seguros, comprensibles y replicables.
+Este portafolio no busca que se realice las típicas aplicaciones de práctica (como una lista de tareas genérica).
 
-## ¿Qué Lenguajes se van a Manejar?
+Está diseñado específicamente para conectar el desarrollo web y de software con la robótica de rescate y minería en entornos de alta exigencia (inspirados en la ingeniería y geografía japonesa).
 
-Los lenguajes principales a manejar son:
+Al terminar, no solo se sabrá programar; se espera saber cómo estructurar software que interactúa con conceptos de hardware, telemetría y misiones críticas.
 
-* Frontend
-  * HTML5
-  * CSS3
-  * JavaScript
-  * React
+## ¿Qué se Busca Aprender con Este Portafolio?
 
-* Backend
+Se aprenderá a traducir necesidades de ingeniería pesada y situaciones de emergencia en interfaces de usuario limpias, arquitecturas de datos sólidas y sistemas de comunicación eficientes entre el cliente (frontend) y el servidor (backend).
 
-  * Python
+## Cómo se Llevará a Cabo el Portafolio?
 
-* Base de Datos
+Se avanzará nivel por nivel al estilo de el examen *JLPT (N5-N1)*, sin embargo en este proyecto se conocerá como **CLPT** (Coding-Language Proficiency Test)
 
-  * SQL - PostgreSQL
+En cada nivel se desarrollará dos proyectos bajo la metodología de "Cliente-Proveedor":
 
-## ¿Qué se Busca con Este Portafolio?
+* Se simula un cliente que dará los requerimientos funcionales (qué debe hacer el sistema) y el proveedor diseñará y escribirá el código (el cómo).
 
-La finalidad de este Portafolio es dejar evidencia de los avances obtenidos a lo largo del esfuerzo y educación tanto tradicional como autodidacta en cada uno de los lenguajes mencionado con el fin de no solo entender a nivel teórico como funciona un lenguaje, sino poder construir con el soluciones que puedan ayudar desde personas naturales, estudiantes que busquen mejorar sus conocimientos más allá de las paredes educativas tradicionales, pequeños negocios, Startups e incluso empresas grandes o multinacionales, enfocado hacia la Robótica.
+Cada proyecto se subirá a GitHub con su respectivo archivo README.md y licencia MIT.
 
-Pero más allá de los grandes logros que pueda llegar a alcanzar el código depositado en este lugar, es la misma introspección continua la que permite mejorar y avanzar en el crecimiento personal, logrando que los mismos inventos o creaciónes que se haga a través de un computador, puedan ser aquellos que en un futuro, ayuden a la humanidad, independendientemente de su "dolencia".
+## ¿Por Qué Estas Tecnologías?
 
-## ¿Cómo se Llevará a Cabo Este Portafolio?
+### HTML5 y CSS3 (N5)
 
-Se hará uso del modelo de niveles del JLPT (Japanese-Language Proficiency Test) que para este portafolio se llamará **CLPT** (Coding-Language Proficiency Test), donde N5, siendo el nivel "principiante", se manejará las bases, y N1 siendo el nivel avanzado, manejará programas y código complejo.
+* Son los cimientos.
 
-Cada nivel tendrá 10 proyectos que ayudarán a entender, afianzar y mejorar la escritura de código y 1 proyecto final que será un videojuego dando así un total de 51 proyectos por nivel y lenguaje(s).
+* Un ingeniero de robots necesita pantallas de control; si la estructura o el diseño visual fallan en una situación de rescate, el operario cometerá errores.
 
-Cada proyecto se hará como si fuese una solicitud de un cliente real con un problema a solucionar.
+### JavaScript Vanilla (N4)
 
-Dicho problema se intenta que sea algo de la vida real, que pueda estar sucediendo en estos momentos o que alguna empresa o negocio pueda tener en cualquier momento.
+* Para dar vida y dinamismo a las interfaces (actualización de sensores en tiempo real simulados).
 
-Los estudios se harán de forma que cada repositorio vaya sumando el conocimiento anterior y fomentar así un pensamiento analítico Full-Stack:
+### React + TypeScript + Tailwind (N3)
 
-| Antelación | Lenguaje | URL |
-| :--: | :--: | :--: |
-| 01 | HTML5 | [HTML5](https://github.com/Ze-ni-tsu/Retos-HTML5) |
-| 02 | HTML5 + CSS3 | [HTML5 + CSS3] |
-| 03 | HTML5 + CSS3 + JavaScript | [HTML5 + CSS3 + JavaScript] |
-| 04 | HTML5 + CSS3 + JavaScript + TypeScript | [HTML5 + CSS3 + JavaScript + TypeScript] |
-| 05 | HTML5 + CSS3 + JavaScript + TypeScript + React | [HTML5 + CSS3 + JavaScript + TypeScript + React] |
-| 06 | HTML5 + CSS3 + JavaScript + TypeScript + React + Python | [HTML5 + CSS3 + JavaScript + TypeScript + React + Python] |
-| 07 | HTML5 + CSS3 + JavaScript + TypeScript + React + Python + SQL - PostgreSQL | [HTML5 + CSS3 + JavaScript + TypeScript + React + Python + SQL] |
+* Estándar de la industria para interfaces complejas, modulares y escalables, previniendo errores en tiempo de compilación gracias al tipado estricto.
+
+### Python (FastAPI) + PostgreSQL (N2)
+
+* Python es usado en la robótica y principalmente la IA.
+
+* FastAPI es increíblemente rápido para recibir telemetría de robots, y PostgreSQL guardará los logs históricos de las misiones.
+
+### Fullstack (N1)
+
+* La integración total de un sistema de control de misiones.
+
+## ¿Qué se Aprenderá de Cada Tecnología?
+
+| Lenguaje | Aprendizaje |
+| :---: | :---: |
+| **HTML** | Semántica estructural. |
+| **CSS** | Diseño e interfaces de usuario críticas. |
+| **JS/TS** | Lógica y asincronía. |
+| **React** | Modularización. |
+| **FastAPI** | APIs de alta velocidad. |
+| **SQL** | Persistencia/optimización de datos de sensores. |
+
+## ¿Cómo se Construirá Cada Nivel?
+
+Cada nivel se construirá de forma incremental.
+
+No se saltará al siguiente nivel hasta que los dos proyectos del nivel actual estén completamente funcionales, maquetados y subidos al repositorio.
+
+## ¿Qué se Aprenderá en Cada Nivel?
+
+* **N5**
+  * Estructura limpia y diseño visual adaptativo enfocado en paneles de control y manuales técnicos.
+
+* **N4**
+  * Interactividad, manejo del DOM y simulación de flujos de datos.
+
+* **N3**
+  * Componentes reutilizables para flotas de robots y tipado seguro de variables físicas.
+
+* **N2**
+  * Creación de bases de datos para misiones y endpoints para recibir coordenadas o estados de sensores.
+
+* **N1**
+  * Centralización y despliegue de un centro de comando robótico completo.
 
 ## ¿Quién Puede Hacer Uso del Código Impreso en Este Portafolio?
 
-Como bien la licencia lo indica este portafolio es **Open-Source con Licencia MIT** (_para mayor información leer la [licencia](/LICENSE)_), por lo que podrá ser usado por cualquier persona, novata o profesional, cualquier empresa, pequeña o multinacional, que le pueda servir esté código.
+Como bien la licencia lo indica este portafolio es **Open-Source con Licencia MIT** (para mayor información leer la [licencia](/LICENSE)), por lo que podrá ser usado por cualquier persona, novata o profesional, cualquier empresa, pequeña o multinacional, que le pueda servir esté código.
 
 Lo único que se solicita es que se siga las **reglas de la [licencia MIT](/LICENSE)** y que si observan de que el proyecto puede servirle a alguien más para que pueda enseñar, aprender, o mejorar su negocio, pueda llegarle y ayudarle a crecer en sus proyectos y metas.
 
